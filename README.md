@@ -32,26 +32,16 @@ Setup Instructions
 Clone the Repository
 git clone https://github.com/your-repo-name.git
 cd your-repo-name
-
 Install Dependencies
 pip install -r requirements.txt
-
 Upload Arduino Code
-
 Open arduino_code.ino in Arduino IDE
-
 Select ESP32 board and configure Wi-Fi credentials
-
 Upload the code to ESP32
-
 Run the Flask Application
-
 python app.py
-
 Access the Web Interface
-
 Open http://localhost:5000 in a browser.
-
 
 Usage
 
