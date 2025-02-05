@@ -12,7 +12,7 @@ User-Friendly Interface: Farmers can access insights through a web app.
 Fast and Accurate Processing: Ensures timely and precise crop suggestions.
 
 Installation
-1. Hardware Requirements
+1. Hardware Requirements:
 ESP32 Microcontroller
 DHT11 (Temperature & Humidity Sensor)
 NPK Sensor
@@ -20,7 +20,7 @@ pH Sensor
 Rainfall Sensor
 Power Supply (12V 1A)
 
-2. Software Requirements
+2. Software Requirements:
 Python 3.x
 Flask
 scikit-learn
