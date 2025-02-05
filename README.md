@@ -64,7 +64,7 @@ Enhancements: Optimize machine learning models for better prediction accuracy.
 
 Contributors
 
-Abhin S Shetty - Mangalore Institute of Technology & Engineering\n
-Deeksha Kamath - Mangalore Institute of Technology & Engineering
-Joyvi Rodrigues - Mangalore Institute of Technology & Engineering 
+Abhin S Shetty - Mangalore Institute of Technology & Engineering  
+Deeksha Kamath - Mangalore Institute of Technology & Engineering  
+Joyvi Rodrigues - Mangalore Institute of Technology & Engineering  
 Sonal Dsouza - Mangalore Institute of Technology & Engineering
