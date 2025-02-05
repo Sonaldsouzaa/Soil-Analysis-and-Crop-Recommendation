@@ -5,11 +5,11 @@ This project is an AI-driven soil analysis and crop recommendation system that u
 
 Features
 
-Collects Soil Data: Measures NPK, pH, humidity, temperature, and rainfall.
-AI-Based Recommendations: Uses machine learning to suggest the best crops.
-IoT Integration: Uses ESP32 to transmit data to the cloud.
-User-Friendly Interface: Farmers can access insights through a web app.
-Fast and Accurate Processing: Ensures timely and precise crop suggestions.
+Collects Soil Data: Measures NPK, pH, humidity, temperature, and rainfall.  
+AI-Based Recommendations: Uses machine learning to suggest the best crops.  
+IoT Integration: Uses ESP32 to transmit data to the cloud.  
+User-Friendly Interface: Farmers can access insights through a web app.  
+Fast and Accurate Processing: Ensures timely and precise crop suggestions.  
 
 Installation
 1. Hardware Requirements:
