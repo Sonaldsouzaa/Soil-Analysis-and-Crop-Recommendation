@@ -27,8 +27,8 @@ scikit-learn
 Arduino IDE (for ESP32 programming)
 Blynk IoT platform setup
 
-
 Setup Instructions
+
 Clone the Repository
 git clone https://github.com/your-repo-name.git
 cd your-repo-name
@@ -52,4 +52,26 @@ Access the Web Interface
 
 Open http://localhost:5000 in a browser.
 
-Input soil data and receive crop recommendations.
+
+Usage
+
+Step 1: Sensors collect real-time soil data.
+Step 2: ESP32 transmits data to Blynk IoT.
+Step 3: Machine learning model processes data and predicts the best crop.
+Step 4: Recommendations are displayed on the Flask web app.
+
+Testing & Results
+Accuracy Reports: Evaluates the model's performance with real-world soil data.
+Classification Metrics: Includes precision, recall, F1-score, and confusion matrix.
+UI Snapshots: Displays sensor data, Blynk IoT integration, and crop recommendations.
+
+Future Scope
+Scalability: Expand system to cover more crops and soil types.
+Additional Features: Improve sensor integration, data analytics, and user interface.
+Enhancements: Optimize machine learning models for better prediction accuracy.
+
+Contributors
+Abhin S Shetty - Mangalore Institute of Technology & Engineering
+Deeksha Kamath - Mangalore Institute of Technology & Engineering
+Joyvi Rodrigues - Mangalore Institute of Technology & Engineering 
+Sonal Dsouza - Mangalore Institute of Technology & Engineering
